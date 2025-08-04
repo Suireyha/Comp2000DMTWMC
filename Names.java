@@ -4,6 +4,7 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		printCaleb();
+		printWill();
 		// Put your signature function on the above line!
 	}
 	public static void PrintHarrisSig() {
@@ -13,6 +14,15 @@ public class Names {
 
 	public static void printCaleb(){
 	System.out.println("My name is Caleb :100:");
+	}
+
+	public static void printWill(){
+		String name = "My name is Will";
+		for(int i = 0; i < name.length(); i++){
+			int nameNum = name.charAt(i);
+			System.out.print(nameNum + " ");
+		}
+		System.out.println("");
 	}
 	
 	
