@@ -15,6 +15,9 @@ public class Names {
 	System.out.println("My name is Caleb :100:");
 	}
 	
+	public static void printTom(){
+	System.out.println("My name is Tom >;) ");
+	}
 	
 
 }
