@@ -5,6 +5,8 @@ public class Names {
 		PrintHarrisSig();
 		printCaleb();
 		printWill();
+		printTom();
+		printDaniel();
 		// Put your signature function on the above line!
 	}
 	public static void PrintHarrisSig() {
@@ -25,6 +27,12 @@ public class Names {
 		System.out.println("");
 	}
 	
-	
+	public static void printTom(){
+	System.out.println("My name is Tom >;) ");
+	}
+
+	public static void printDaniel(){
+	System.out.println("My name is Daniel !! ");
+	}
 
 }
