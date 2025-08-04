@@ -1,0 +1,5 @@
+We did the irat individually for 15mins
+Then we did the trat together and went through each question, There were a few we had different like the git dif question which we collaborated on to come to the correct answer.
+The teacher went through each question and we answered with what we got (we got them all right)
+Finally we were give the task to create a GitHub repo and put several files in (of which this is one)
+We had to put a java file in to show how we would resolve a merge conflict and clone the workshop repository
