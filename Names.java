@@ -4,6 +4,7 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		printCaleb();
+		printTom();
 		// Put your signature function on the above line!
 	}
 	public static void PrintHarrisSig() {
