@@ -7,6 +7,7 @@ public class Names {
 		printWill();
 		printTom();
 		printDaniel();
+		printMickel();
 		// Put your signature function on the above line!
 	}
 	public static void PrintHarrisSig() {
