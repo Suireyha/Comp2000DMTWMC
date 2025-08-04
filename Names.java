@@ -4,4 +4,13 @@ public class Names {
 		// Put your signature function on the below line!
 		PrintHarrisSig();
 		// Put your signature function on the above line!
+	
+	public static void printCaleb(){
+	System.out.println("My name is Caleb :100:");
 	}
+	
+	printCaleb();
+
+	}
+
+
