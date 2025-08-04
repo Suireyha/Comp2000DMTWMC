@@ -35,4 +35,8 @@ public class Names {
 	System.out.println("My name is Daniel !! ");
 	}
 
+	public static void printMickel(){
+	System.out.println("My name is Mickel");
+	}
+	
 }
